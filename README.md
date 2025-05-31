@@ -49,5 +49,7 @@ Smart city environmental monitoring initiatives
 This system offers an accessible, affordable, and scalable solution to monitor and improve air quality, leveraging IoT technology and cloud computing for enhanced environmental safety.
 
 OUTPUT:
+
+
 ![Image](https://github.com/user-attachments/assets/f061c594-528b-4d00-b558-7540c648109e)
 
